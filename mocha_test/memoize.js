@@ -1,6 +1,6 @@
 var async = require('../lib');
 var expect = require('chai').expect;
-var assert = require('assert');
+var assert = require('assert')
 
 describe("memoize", function() {
 
